@@ -138,6 +138,7 @@ module.exports = {
   isOdd,
   numberOfDigits,
   secondSmallest,
+  disemvowel,
   getLocations,
   onlyOddStrings,
   linkedListToArray,
